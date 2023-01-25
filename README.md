@@ -1,4 +1,4 @@
-
+![Alt Text](https://github.com/y0lomashi/y0lomashi/blob/main/github%20banner.gif)
 
 <h1 align="center">Hi 👋, I'm Curtis</h1>
 <h3 align="center">An aspiring programmer from Canada 🇨🇦</h3>
