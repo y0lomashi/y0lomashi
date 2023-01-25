@@ -1,7 +1,7 @@
 <img src="https://github.com/y0lomashi/y0lomashi/blob/main/github%20banner.gif" height="50%"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&width=1000&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&c&color=0:0BA8FF,100:C687FF&text=Hello!&fontColor=C0C0C0&animation=fadeIn&height=100&width=1000&section=header"/>
 </p>
 <h1 align="center">Nice To Meet You,  I'm Curtis!</h1>
 <h3 align="center">An aspiring programmer from Canada 🇨🇦</h3>
@@ -41,12 +41,12 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y0lomashi&theme=highcontrast" alt="y0lomashi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0lomashi&show_icons=true&theme=highcontrast&locale=en" alt="y0lomashi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y0lomashi&show_icons=true&theme=highcontrast&locale=en" alt="y0lomashi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="y0lomashi" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="y0lomashi" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BA8FF,100:C687FF&height=100&section=footer"/>
 </p>
 
 
