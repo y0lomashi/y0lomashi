@@ -41,11 +41,11 @@
   
   
   
-<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=y0lomashi&theme=dark" alt="y0lomashi" /></p>
+<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=y0lomashi&theme=dark"height="75%" alt="y0lomashi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y0lomashi&show_icons=true&theme=dark&locale=en" alt="y0lomashi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y0lomashi&show_icons=true&theme=dark&locale=en" height="75%" alt="y0lomashi" /></p>
   
-<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=dark&locale=en" alt="y0lomashi" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=dark&locale=en" height="75%" alt="y0lomashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0lomashi&theme=dark" alt="y0lomashi" /></p>
 
