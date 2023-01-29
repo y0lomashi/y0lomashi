@@ -40,13 +40,13 @@
 
   
   
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y0lomashi&theme=dark" width="47%" height="47%" alt="y0lomashi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y0lomashi&theme=violet-punch" width="44%" height="44%" alt="y0lomashi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y0lomashi&show_icons=true&theme=dark&locale=en" width="47%" height="47%" alt="y0lomashi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=y0lomashi&show_icons=true&theme=midnight-purple&locale=en" width="44%" height="44%" alt="y0lomashi" /></p>
 
-<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=dark&locale=en" width="47%" height="47%" alt="y0lomashi" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=midnight-purple&locale=en&layout=compact" width="44%" height="44%" alt="y0lomashi" /></p>
   
-<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=y0lomashi&theme=dark" width="42%" height="42%" alt="y0lomashi" /></p>
+<p><img align="center" src="https://leetcode-stats.vercel.app/api?username=y0lomashi&theme=Raspberry" width="42%" height="42%" alt="y0lomashi" /></p>
   
 
 
