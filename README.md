@@ -46,7 +46,7 @@
 
 <p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=y0lomashi&show_icons=true&theme=dark&locale=en" width="47%" height="47%" alt="y0lomashi" /></p>
   
-<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=y0lomashi&theme=dark" width="47%" height="47%" alt="y0lomashi" /></p>
+<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=y0lomashi&theme=dark" width="42%" height="42%" alt="y0lomashi" /></p>
   
 
 
