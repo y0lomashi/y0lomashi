@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to learn **anything new!**
 
-- 🌱 I’m currently learning **data structures, algorithms, and anything else interesting**
+- 🌱 I’m currently learning **ReactJS and Competitive Programming**
 
 - 👨‍💻 Feel free to contact me **I would love to chat!**
 
