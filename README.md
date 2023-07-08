@@ -12,11 +12,11 @@
 
 - 👨‍💻 Feel free to contact me **I would love to chat!**
 
-- 💬 Message me on Discord at **yolomashi #2626**
+- 💬 Message me on Discord at **yolomashi**
 
 - 📫 You also can reach me at **curtisli7788@gmail.com**
 
-- ⚡ Fun fact **I am a highly competitive golfer!**
+- ⚡ Fun fact **I play competitive golf at a high level!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
