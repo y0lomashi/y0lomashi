@@ -38,7 +38,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github.com/y0lomashi/y0lomashi/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/y0lomashi/y0lomashi/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 
