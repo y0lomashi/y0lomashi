@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to learn **anything new!**
 
-- 🌱 I’m currently learning **React Native and Competitive Programming**
+- 🌱 I’m currently learning **React and Competitive Programming**
 
 - 👨‍💻 Feel free to contact me **I would love to chat!**
 
