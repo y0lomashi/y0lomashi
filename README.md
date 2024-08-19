@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/curtis_yolomashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curtis_yolomashi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@yolomashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yolomashi" height="30" width="40" /></a>
+<a href="https://instagram.com/_curtisli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curtis_yolomashi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yolomashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yolomashi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/y0lomashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="y0lomashi" height="30" width="40" /></a>
 </p>
 
