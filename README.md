@@ -6,6 +6,8 @@
 <h1 align="center">Nice To Meet You,  I'm Curtis!</h1>
 <h3 align="center">An aspiring programmer from Canada 🇨🇦</h3>
 
+- 🏫 Currently Attending UBC looking to study Computer Science!
+
 - 🤝 I’m looking to learn **anything new!**
 
 - 🌱 I’m currently learning **React and Competitive Programming**
